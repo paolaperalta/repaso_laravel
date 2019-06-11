@@ -14,7 +14,6 @@
         @endforeach
     </ul>
     <br>
-     {{ $movies->links() }}
 </div>
 
 @endsection
